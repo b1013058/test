@@ -4,6 +4,7 @@
 
 main()
 {
-        printf("good morning\n");
+	printf("hello, world\n");
+	printf("good morning\n");
 
 }
